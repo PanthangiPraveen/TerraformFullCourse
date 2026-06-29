@@ -1,4 +1,4 @@
-# Terraform with AWS - Complete Video Course 🚀
+# Terraform with AWS 
 
 Welcome to the comprehensive Terraform with AWS video course! This repository contains all code samples and documentation corresponding to each  lesson.
 
