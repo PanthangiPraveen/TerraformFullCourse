@@ -3,20 +3,20 @@ Terraform with AWS
 
 ##Module 1: Core Concepts
 ###Day1: Introduction to Terraform
-•	Understanding Infrastructure as Code (IaC)
-•	Why we need IaC
-•	What is Terraform and its benefits
-•	Challenges with the traditional approach
-•	Terraform Workflow
-•	Installing Terraform
-•	Code Sample
+  •	Understanding Infrastructure as Code (IaC)
+  •	Why we need IaC
+  •	What is Terraform and its benefits
+  •	Challenges with the traditional approach
+  •	Terraform Workflow
+  •	Installing Terraform
+  •	Code Sample
 ###Day2: Terraform Provider
-•	Terraform Providers
-•	Provider version v/s Terraform core version
-•	Why version matters
-•	Version constraints
-•	Operators for versions
-•	Code Sample
+  •	Terraform Providers
+  •	Provider version v/s Terraform core version
+  •	Why version matters
+  •	Version constraints
+  •	Operators for versions
+  •	Code Sample
 ###Day3: VPC and S3 Bucket
 •	Authentication and Authorization to AWS resources
 •	Creating VPC
