@@ -11,6 +11,7 @@ Terraform with AWS
   •	Terraform Workflow
   •	Installing Terraform
   •	Code Sample
+
   
 ###Day2: Terraform Provider
   •	Terraform Providers
